@@ -1,4 +1,7 @@
-theme: midnight
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+show_downloads: false
 title: Unity İpuçları
 author: Matsuo
-description: Unity ile oyun geliştirmede işinize yarayabilecek bilgiler
+description: Unity ile oyun geliştirmede işinize yarayabilecek bilgile
