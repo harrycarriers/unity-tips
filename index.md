@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Deneme: Bir bir blog yazısı olacak!
 ---
 
